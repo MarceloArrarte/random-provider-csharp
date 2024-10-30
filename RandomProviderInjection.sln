@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomProviderInjection", "RandomProviderInjection\RandomProviderInjection.csproj", "{B095D18B-6181-48E5-B14C-7F9AC3A5F8BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomProviderInjectionTests", "RandomProviderInjectionTests\RandomProviderInjectionTests.csproj", "{691B863D-9BEE-4824-98BB-2BB7BF59E8C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B095D18B-6181-48E5-B14C-7F9AC3A5F8BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B095D18B-6181-48E5-B14C-7F9AC3A5F8BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B095D18B-6181-48E5-B14C-7F9AC3A5F8BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B095D18B-6181-48E5-B14C-7F9AC3A5F8BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691B863D-9BEE-4824-98BB-2BB7BF59E8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691B863D-9BEE-4824-98BB-2BB7BF59E8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691B863D-9BEE-4824-98BB-2BB7BF59E8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691B863D-9BEE-4824-98BB-2BB7BF59E8C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
